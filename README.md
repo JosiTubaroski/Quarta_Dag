@@ -5,3 +5,8 @@
 
 <img src="https://github.com/JosiTubaroski/Quarta_Dag/blob/main/img/quarta_dag_codigo.png">
 
+ - Quarta dag apresentada
+
+<img src="https://github.com/JosiTubaroski/Quarta_Dag/blob/main/img/Quarta_Dag_Graph.png">
+
+
